@@ -1,0 +1,6 @@
+@import './mixins';
+
+body {
+  @include fubar;
+  color: red;
+}
